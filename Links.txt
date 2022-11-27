@@ -1,0 +1,16 @@
+Serverless application architectures using Event Grid
+https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/serverless-application-architectures-using-event-grid
+
+https://learn.microsoft.com/en-us/azure/event-grid/custom-event-to-function
+https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-overview
+https://learn.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event?tabs=dotnet%2Cazure-powershell
+https://github.com/Azure-Samples/function-image-upload-resize/blob/master/ImageFunctions/Thumbnail.cs
+
+https://learn.microsoft.com/en-us/azure/event-grid/overview
+https://medium.com/swlh/subject-filtering-on-blob-events-in-azure-event-grid-fb0853bf6db0
+
+*********************************
+*********************************
+*********************************
+
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/intelligent-apps-image-processing
